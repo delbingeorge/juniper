@@ -1,0 +1,16 @@
+   // <div class="py-32" id='about-us'>
+          //      <div class="container m-auto px-6 text-gray-600 md:px-12 xl:px-6">
+          //           <div class="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
+          //                <div class="md:5/12 lg:w-5/12">
+          //                     <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" alt="landing" loading="lazy" className='rounded-xl' ></img>
+          //                </div>
+          //                <div class="md:7/12 lg:w-6/12">
+          //                     <h2 class="text-2xl text-gray-900 font-bold md:text-4xl">Juniper Learning - Learn to code!</h2>
+          //                     <p class="mt-6 text-gray-600">We make educational series' for learning software development. We stand out
+          //                          because of our ease of learning. We want to convey a
+          //                          sense of mystery, while at the same time being inexpensive!</p>
+          //                     <p class="mt-4 text-gray-600"> We facilitate online and in contact classroom education with flexible schedule and work sessions. Enroll Now, be greater!</p>
+          //                </div>
+          //           </div>
+          //      </div>
+          // </div>
