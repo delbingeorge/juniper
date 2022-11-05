@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-scroll";
 
 function Hero() {
     return (
@@ -16,9 +17,11 @@ function Hero() {
                     <p className="text-2xl tracking-wide py-9 text-center">
                         Enroll now and get up-to <span className="font-bold">40%</span> off on <br></br>every course you join!
                     </p>
-                    <button className="bg-primary-blue text-primary-white font-bold py-2 px-8 tracking-wide rounded-full hover:bg-blue-alpha duration-200">
+                    <Link to="pricing"
+                        spy={true} smooth={true} offset={10} duration={1950}
+                        className="bg-primary-blue text-primary-white cursor-pointer font-bold py-2 px-8 tracking-wide rounded-full hover:bg-blue-alpha duration-200">
                         Enroll Now
-                    </button>
+                    </Link>
                 </div>
             </div>
         </div>

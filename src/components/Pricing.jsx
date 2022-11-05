@@ -2,7 +2,7 @@ import React from 'react'
 
 function Pricing() {
      return (
-          <div>
+          <div id='pricing'>
                <div className=' py-16'>
                     <div className='px-4'>
                          <h1 className="text-3xl font-bold text-center max-sm:text-2xl">Much more than you pay.</h1>
