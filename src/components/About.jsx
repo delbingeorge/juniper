@@ -12,7 +12,7 @@ function About() {
                          <p className="text-lg pb-4">We make educational series' for learning software development. We stand out
                               because of our ease of learning. We want to convey a
                               sense of mystery, while at the same time being inexpensive!</p>
-                         <p className="text-lg"> We facilitate online and in contact classNameroom education with flexible schedule and work sessions. Enroll Now, be greater!</p>
+                         <p className="text-lg"> We facilitate online and in contact classroom education with flexible schedule and work sessions. Enroll Now, be greater!</p>
 
                     </div>
                </div>
