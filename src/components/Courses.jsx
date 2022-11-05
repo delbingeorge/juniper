@@ -2,8 +2,8 @@ import React from "react";
 
 function Courses() {
     return (
-        <div className="">
-
+        <div className="h-screen">
+            
         </div>
     );
 }
