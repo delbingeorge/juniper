@@ -6,7 +6,7 @@ function Hero() {
         <div className=" flex flex-col items-center">
             <div className="container pt-52 pb-52 max-sm:pt-24">
                 <div className="flex items-center justify-center flex-col">
-                    <h1 className="text-7xl font-bold text-center max-sm:text-6xl">
+                    <h1 className="text-7xl font-bold text-center max-sm:text-6xl max-sm:px-2">
                         <span className="text-primary-blue text-extrabold ">Juniper</span>,
                         <br></br>
                         from darkness
@@ -14,7 +14,7 @@ function Hero() {
                         to
                         light!
                     </h1>
-                    <p className="text-2xl tracking-wide py-9 text-center">
+                    <p className="text-2xl tracking-wide py-9 text-center max-sm:px-4">
                         Enroll now and get up-to <span className="font-bold">40%</span> off on <br></br>every course you join!
                     </p>
                     <Link to="pricing"
