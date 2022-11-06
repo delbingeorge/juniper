@@ -27,8 +27,10 @@ function Pricing() {
                               <h1 className='text-5xl text-primary-white font-semibold'>$40<span className='text-sm text-primary-white font-semibold'>/month</span></h1>
                               <h3 className='text-sm capitalize text-primary-white pt-4 pb-4'>package details</h3>
                               <ul className='pl-4 pb-8'>
-                                   <li className='text-primary-white pb-2'>One premium course</li>
+                                   <li className='text-primary-white pb-2'>Upto 5 premium course</li>
                                    <li className='text-primary-white pb-2'>24/7 support</li>
+                                   <li className='text-primary-white pb-2'>1on1 doubt clearing session</li>
+                                   <li className='text-primary-white pb-2'>Course completion certificate</li>
                                    <li className='text-primary-white pb-2'>Any time cancelation</li>
                               </ul>
                               <button className='py-2 px-6 rounded-lg border uppercase font-semibold tracking-wider bg-primary-white text-primary-blue text-sm hover:bg-primary-blue hover:text-primary-white duration-200'>Select</button>
@@ -38,9 +40,12 @@ function Pricing() {
                               <h1 className='text-5xl text-primary-blue font-semibold'>$60<span className='text-sm text-primary-blue font-semibold'>/month</span></h1>
                               <h3 className='text-sm capitalize text-primary-blue pt-4 pb-4'>package details</h3>
                               <ul className='pl-4 pb-8'>
-                                   <li className='text-primary-blue pb-2'>One premium course</li>
+                                   <li className='text-primary-blue pb-2'>Unlimited course selection</li>
                                    <li className='text-primary-blue pb-2'>24/7 support</li>
+                                   <li className='text-primary-blue pb-2'>1on1 doubt clearing session 24/7</li>
+                                   <li className='text-primary-blue pb-2'>Course completion certificate</li>
                                    <li className='text-primary-blue pb-2'>Any time cancelation</li>
+                                   <li className='text-primary-blue pb-2'>Free course sharing</li>
                               </ul>
                               <button className='py-2 px-6 rounded-lg border uppercase font-semibold tracking-wider bg-primary-blue text-primary-white text-sm hover:bg-primary-white hover:text-primary-blue duration-200'>Select</button>
                          </div>

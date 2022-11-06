@@ -2,7 +2,7 @@ import React from 'react'
 
 function Contact() {
      return (
-          <div>
+          <div id='contact'>
                <div class="bg-gray-50">
                     <div class="mx-auto max-w-7xl py-12 px-4 sm:px-6 lg:flex lg:items-center lg:justify-between lg:py-16 lg:px-8">
                          <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">

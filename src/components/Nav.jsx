@@ -15,14 +15,17 @@ function Nav() {
                         About Us
                     </Link>
                     <Link
-                        to=""
+                        to="pricing"
+                        spy={true} smooth={true} offset={10} duration={1950}
                         className=" uppercase tracking-wide text-sm hover:text-primary-blue duration-200 cursor-pointer"
                     >
-                        Courses
+                        Subscribe
                     </Link>
-                    <button className="bg-primary-blue text-sm text-primary-white uppercase tracking-wide hover:bg-blue-700 text-white font-bold py-2 px-8 rounded-full  hover:bg-blue-alpha duration-200">
+                    <Link to='contact'
+                        spy={true} smooth={true} offset={10} duration={1950}
+                        className="bg-primary-blue cursor-pointer text-sm text-primary-white uppercase tracking-wide hover:bg-blue-700 text-white font-bold py-2 px-8 rounded-full  hover:bg-blue-alpha duration-200">
                         Contact
-                    </button>
+                    </Link>
                 </div>
             </nav>
         </div>
